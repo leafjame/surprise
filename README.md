@@ -14,7 +14,7 @@
 
 <font color="red;">⬇️点击图片查看动态效果⬇️</font>
 
-![image](http://pwfvtet6u.bkt.clouddn.com/rose.gif)
+![image](http://pwfvtet6u.bkt.clouddn.com/Aug-23-2019%2018-09-41.gif)
 
 最开始的时候，页面里只有一朵玫瑰花。也就是在几年前，我在里面加了其他的元素，最终发给女神，给惊呆了😜😜😜
 
@@ -57,7 +57,7 @@ $("#song_title").html($("#audio_id").attr("src"));
 折得玫瑰花一朵
 凭君簪向凤凰钗
 ```
-这首诗是悬浮在玫瑰花正上方的，动图里截的不明显
+这首诗悬浮在玫瑰花正上方
 
 ![](http://pwfvtet6u.bkt.clouddn.com/WX20190823-175247@2x.png)
 
