@@ -12,7 +12,7 @@
 
 **（下载解压即所得）**  
 
-⬇️点击图片查看动态效果⬇️
+<font color="red;">⬇️点击图片查看动态效果⬇️</font>
 
 ![image](http://pwfvtet6u.bkt.clouddn.com/rose.gif)
 
