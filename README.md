@@ -12,7 +12,7 @@
 
 **（解压即所得）**
 
-![效果展示](http://pwfvtet6u.bkt.clouddn.com/rose1.gif)
+![image](http://pwfvtet6u.bkt.clouddn.com/rose1.gif)
 
 最开始的时候，页面里只有一朵玫瑰花。也就是在几年前，我在里面加了其他的元素，最终发给女神，给惊呆了😜😜😜
 
