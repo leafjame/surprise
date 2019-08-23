@@ -14,6 +14,8 @@
 
 ![image](http://pwfvtet6u.bkt.clouddn.com/rose1.gif)
 
+<img src="http://pwfvtet6u.bkt.clouddn.com/rose1.gif" width=200 height=360 />
+
 最开始的时候，页面里只有一朵玫瑰花。也就是在几年前，我在里面加了其他的元素，最终发给女神，给惊呆了😜😜😜
 
 # 修改明细
