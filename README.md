@@ -4,7 +4,7 @@
 
 展示的效果如下：
 
-![image](http://pwfvtet6u.bkt.clouddn.com/rose.gif)
+![image](https://s2.ax1x.com/2019/09/07/n1QYRJ.gif)
 
 **Github下载地址：**
 
